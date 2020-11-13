@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:sparkles: 
+I recently completed the International Master's in Business Analytics and Big Data at Politecnico di Milano with a thesis project in collaboration with European Commission JRC and Karolinska Institutet. The project was about improving scientific literature quality assessment leveraging AI and NLP.
 
 <!--
 **giumanto/giumanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
